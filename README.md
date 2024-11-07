@@ -11,3 +11,4 @@ C:\Users\LabInfo\AppData\Local\Google\Chrome\User Data\Default\Network
 
 Endereço para achar as informações armazenadas em Session
 C:\xampp\tmp
+HTTPS - deixa as informações que estão em session mais seguras.
